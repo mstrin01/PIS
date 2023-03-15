@@ -11,3 +11,4 @@ namespace ConsoleApp25_ms
         int metoda();
     }
 }
+// comment ms 1
