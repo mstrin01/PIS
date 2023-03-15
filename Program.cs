@@ -14,4 +14,5 @@ namespace ConsoleApp25_ms
             Console.WriteLine("Novo");
         }
     }
+    //promjena stipe-jurkovic aaaaaaaaaaaaaa
 }
