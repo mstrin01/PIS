@@ -8,5 +8,6 @@ namespace ConsoleApp25_ms
 {
     class NewClass
     {
+        int metoda();
     }
 }
