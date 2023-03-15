@@ -10,7 +10,7 @@ namespace ConsoleApp25_ms
     {
         int metoda();
         //test 2
-        //komentar test
+        //komentar        test
     }
 }
 // comment ms 1
