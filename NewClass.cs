@@ -10,3 +10,4 @@ namespace ConsoleApp25_ms
     {
     }
 }
+// comment ms 1
