@@ -10,6 +10,8 @@ namespace ConsoleApp25_ms
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello world!");
+            Console.WriteLine("Novo");
         }
     }
 }
