@@ -9,6 +9,7 @@ namespace ConsoleApp25_ms
     class NewClass
     {
         int metoda();
+        //komentar test
     }
 }
 // comment ms 1
